@@ -1,0 +1,17 @@
+body {
+    background-color: lightslategray;
+}
+
+#menu{
+    background-color: rgb(158, 13, 13);
+    width: 20%;
+    float: left;
+}
+
+#cuerpo{
+    background-color:blueviolet;
+    width: 80%;
+    float: right;
+    table-layout: auto;
+}
+
